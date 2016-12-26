@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/rvdmei/rvdmei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In simple terms: I am a geek, a married one, but still a geek. I have been working in the software industry since the early-90’s and ended up working for over 15 years at KPN, the biggest telecoms service provider in The Netherlands.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Me and Technology
 
-### Markdown
+I have been around in the industry and worked my way up from software developer to senior IT architect. Along the way I have developed a special interest in agile software development, open source software, open source licensing and open source culture. I also, kind of, developed an addiction to spending vast amounts of money to Apple hardware.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Personal stuff
 
-```markdown
-Syntax highlighted code block
+I’m married and a proud father. My first child was born in 2011, my second in 2013. I’m passionate about technology, you will find it hard to see me without some sort of gadget in my hands or behind a screen. When I’m not I’m either spending time with my family or busy practicing a martial art. I have a special interest in Japanese martial arts, I practice Aikido at the Waraku Dojo in Dordrecht and used to practice Koryu Shinkage Ryu Iaido at the Kodokan Dojo in Rotterdam.
 
-# Header 1
-## Header 2
-### Header 3
+## Work
 
-- Bulleted
-- List
+Currently I’m working as senior IT architect at KPN. I specialize in Telecoms Operations, IT Architecture, IT Management and IT Outsourcing. Within KPN I am working on KPNs IT architecture related to the Operational Support Systems for KPNs network division.
 
-1. Numbered
-2. List
+Since 2009 I’ve been involved in helping KPNs IT organization transform from traditional software development towards agile software development. During this transformation I’ve been certified by Ivar Jacobson International as an EssUp Master Practitioner for Use Case Essentials, EssUP Master Practitioner for Iterative Essentials and EssUp Use Case Coach. The past 5 years I have been helping teams adopt Scrum Framework.
 
-**Bold** and _Italic_ and `Code` text
+Note that any opinions expressed on this site are my personal opinions, and not necessarily shared by my employer.
 
-[Link](url) and ![Image](src)
-```
+# Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rvdmei/rvdmei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any comments on this site or any of my entries, or any questions you want to ask me, please don’t to contact me on [twitter](https://twitter.com/rvdmei).
